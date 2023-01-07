@@ -1,3 +1,3 @@
-,log_bytes_down,log_bytes_up
-log_bytes_down,1.0,0.9492806955055879
-log_bytes_up,0.9492806955055879,1.0
+,log_bytes_down,log_bytes_up,device,stat
+log_bytes_down,1.0,0.9492806955055879,Smart-TV,median
+log_bytes_up,0.9492806955055879,1.0,Smart-TV,median

@@ -1,0 +1,9 @@
+,log_bytes_down,log_bytes_up,device,stat
+log_bytes_down,1.0,0.9492806955055879,Smart-TV,median
+log_bytes_up,0.9492806955055879,1.0,Smart-TV,median
+log_bytes_down,1.0,0.9261021333570838,Smart-TV,mean
+log_bytes_up,0.9261021333570838,1.0,Smart-TV,mean
+log_bytes_down,1.0,0.872076825940334,Chromecast,median
+log_bytes_up,0.872076825940334,1.0,Chromecast,median
+log_bytes_down,1.0,0.872076825940334,Chromecast,mean
+log_bytes_up,0.872076825940334,1.0,Chromecast,mean
